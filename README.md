@@ -1,6 +1,5 @@
 # cmsite
 cmsimde template uses mdecycu/cmsimde as submodule
-
 On Replit:
 
 for cmsite: git submodule update --init --recursive 
